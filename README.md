@@ -10,4 +10,3 @@ Methodology
 
 Scope of solutions
 Meal variety improvements, snack basket promotion, quality boost for poultry items, scheduling of services optimization, and effective inventory management are all solutions.
-Vidit Patel
