@@ -1,1 +1,2 @@
-# Skyhacksubmission
+# Skyhack Submission
+Vidit Patel
